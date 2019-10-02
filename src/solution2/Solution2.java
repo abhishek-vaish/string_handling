@@ -7,6 +7,10 @@ public class Solution2 {
         String str;
         int index;
         Scanner scan = new Scanner(System.in);
+        index = scan.nextInt();
+        scan.nextLine();
+        str = scan.nextLine();
 
 
     }
+}
