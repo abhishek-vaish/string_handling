@@ -7,5 +7,7 @@ public class Solution6 {
         String str;
         Scanner scan = new Scanner(System.in);
         str = scan.nextLine();
+        System.out.println(str.toUpperCase());
+
     }
 }
