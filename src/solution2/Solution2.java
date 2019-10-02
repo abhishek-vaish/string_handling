@@ -10,7 +10,11 @@ public class Solution2 {
         index = scan.nextInt();
         scan.nextLine();
         str = scan.nextLine();
-
+        if (index <= (str.length()))
+            System.out.println(str.substring(index));
+        else
+            System.out.println("IndexOutOfBound");
+    }
 
     }
 }
