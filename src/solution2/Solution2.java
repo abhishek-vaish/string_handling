@@ -16,5 +16,4 @@ public class Solution2 {
             System.out.println("IndexOutOfBound");
     }
 
-    }
 }
