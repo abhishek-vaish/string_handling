@@ -9,6 +9,7 @@ public class Solution3 {
         Scanner scan = new Scanner(System.in);
         str = scan.nextLine();
         ch = scan.nextLine().charAt(0);
+        System.out.println(str.replace(ch, '*'));
 
     }
 
