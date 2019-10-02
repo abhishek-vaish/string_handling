@@ -7,6 +7,8 @@ public class Solution3 {
         String str;
         char ch;
         Scanner scan = new Scanner(System.in);
+        str = scan.nextLine();
+        ch = scan.nextLine().charAt(0);
 
     }
 
