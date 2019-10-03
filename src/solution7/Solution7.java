@@ -16,6 +16,6 @@ public class Solution7 {
             ascii = ch;
             weight = weight + ascii;
         }
-
+        System.out.println("totalWeight = " + weight);
     }
 }
