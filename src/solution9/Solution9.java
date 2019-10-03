@@ -11,5 +11,7 @@ public class Solution9 {
         int ascii = 0;
         Scanner scan = new Scanner(System.in);
         str = scan.nextLine();
+        int len = str.length();
+
     }
 }
