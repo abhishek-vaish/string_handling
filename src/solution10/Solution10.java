@@ -10,6 +10,6 @@ public class Solution10 {
         str = scan.nextLine();
         ch = scan.nextLine().charAt(0);
         int index = str.indexOf(ch);
-
+        System.out.println(index);
     }
 }
