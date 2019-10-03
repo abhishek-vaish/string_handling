@@ -9,7 +9,11 @@ public class Solution11 {
         Scanner scan = new Scanner(System.in);
         str = scan.nextLine();
         ch = scan.nextLine().charAt(0);
-
+        for (int i = 0; i < (str.length()); i++) {
+            if (ch == str.charAt(i)) {
+                System.out.println(i);
+            }
+        }
 
     }
 }
