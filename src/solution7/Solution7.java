@@ -11,6 +11,11 @@ public class Solution7 {
         Scanner scan = new Scanner(System.in);
         str = scan.nextLine();
         int len = str.length();
+        for (int i = 0; i < len; i++) {
+            ch = str.charAt(i);
+            ascii = ch;
+            weight = weight + ascii;
+        }
 
     }
 }
