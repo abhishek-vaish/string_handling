@@ -1,5 +1,7 @@
 package solution9;
 
+import java.util.Scanner;
+
 public class Solution9 {
     public static void main(String[] args) {
         String str;
@@ -7,6 +9,7 @@ public class Solution9 {
         int upperCase = 0;
         int lowerCase = 0;
         int ascii = 0;
-
+        Scanner scan = new Scanner(System.in);
+        str = scan.nextLine();
     }
 }
