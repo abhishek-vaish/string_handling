@@ -10,6 +10,7 @@ public class Solution7 {
         char ch;
         Scanner scan = new Scanner(System.in);
         str = scan.nextLine();
+        int len = str.length();
 
     }
 }
