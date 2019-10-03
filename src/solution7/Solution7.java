@@ -9,6 +9,7 @@ public class Solution7 {
         int ascii;
         char ch;
         Scanner scan = new Scanner(System.in);
+        str = scan.nextLine();
 
     }
 }
