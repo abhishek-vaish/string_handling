@@ -25,6 +25,6 @@ public class Solution9 {
 
             }
         }
-
+        System.out.println("absoluteWeight : " + Math.abs(upperCase - lowerCase));
     }
 }
