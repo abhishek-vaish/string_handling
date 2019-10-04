@@ -11,6 +11,10 @@ public class Solution1 {
         number = scan.nextInt();
         scan.nextLine();
         String arr[] = new String[number];
+        for (int i = 0; i < number; i++) {
+            arr[i] = scan.nextLine().trim();
+        }
+
 
     }
 
