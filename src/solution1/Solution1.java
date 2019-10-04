@@ -10,7 +10,7 @@ public class Solution1 {
         System.out.print("Enter the number string you want to input :");
         number = scan.nextInt();
         scan.nextLine();
-
+        String arr[] = new String[number];
 
     }
 
