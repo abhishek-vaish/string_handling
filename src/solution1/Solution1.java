@@ -18,6 +18,10 @@ public class Solution1 {
         for (int j = 0; j < number; j++) {
             System.out.print(j + "\t");
         }
+        System.out.print("\nchar: ");
+        for (int k = 0; k < number; k++) {
+            System.out.print(arr[k] + "\t");
+        }
 
     }
 
